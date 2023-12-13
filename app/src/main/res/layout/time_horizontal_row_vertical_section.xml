@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 날짜 태그 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textViewSection"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Section Header"
+        android:gravity="center"
+        android:textStyle="bold" />
+
+    <!-- 추가적인 UI 요소들을 필요에 따라 추가 -->
+
+</LinearLayout>
